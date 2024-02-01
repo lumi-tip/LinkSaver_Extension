@@ -1,0 +1,13 @@
+{
+    "name": "Link Saver",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Safe your needed links",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
